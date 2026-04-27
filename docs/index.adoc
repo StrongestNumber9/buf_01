@@ -1,0 +1,4 @@
+[[main-content]]
+
+= buf_01 test
+:toc:
