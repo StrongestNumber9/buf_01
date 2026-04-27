@@ -1,1 +1,1 @@
-var branches = ["add_doxygen"]
+var branches = ["main", "add_doxygen"]
