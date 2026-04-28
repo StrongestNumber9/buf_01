@@ -1,4 +1,8 @@
 [[main-content]]
 
-= buf_01 test
+= buf_01
 :toc:
+
+++++
+<iframe src="_attachments/javadoc/index.html" style="height: 80vh; width: 80vh;"></iframe>
+++++
