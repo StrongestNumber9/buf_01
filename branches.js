@@ -1,1 +1,1 @@
-var branches = ["main", "add_doxygen", "antora_testing", "refs"]
+var branches = ["add_doxygen", "refs", "antora_testing", "main"]
